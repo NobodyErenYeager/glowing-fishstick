@@ -1,0 +1,87 @@
+
+004 Floating-point-numbers
+https://www.youtube.com/watch?v=PZRI1IfStY0
+
+007 Exercise-Repl
+https://repl.it/@aneagoie/Operator-Precedence
+
+008 Exercise-Repl
+https://repl.it/@aneagoie/Operator-Precedence
+
+009 Base-Numbers
+https://www.geeksforgeeks.org/python-int-function/
+
+010 Python-Keywords
+https://www.w3schools.com/python/python_ref_keywords.asp
+
+012 Exercise-Repl
+https://repl.it/@aneagoie/Augmented-Assignment-Operator
+
+017 Exercise-Repl
+https://repl.it/@aneagoie/string-formatting#main.py
+
+018 Exercise-Repl
+https://repl.it/@aneagoie/string-indexes
+
+020 Built-In-Functions
+https://docs.python.org/3/library/functions.html
+
+020 String-Methods
+https://www.w3schools.com/python/python_ref_string.asp
+
+023 Python-Comments-Best-Practices
+https://realpython.com/python-comments-guide/
+
+026 Exercise-Repl
+https://repl.it/@aneagoie/lists
+
+027 Exercise-Repl
+https://repl.it/@aneagoie/matrix
+
+028 List-Methods
+https://www.w3schools.com/python/python_ref_list.asp
+
+029 Exercise-Repl
+https://repl.it/@aneagoie/lists-2#main.py
+
+029 Python-Keywords
+https://www.w3schools.com/python/python_ref_keywords.asp
+
+031 Exercise-Repl
+https://repl.it/@aneagoie/lists-3
+
+037 Dictionary-Methods
+https://www.w3schools.com/python/python_ref_dictionary.asp
+
+038 Exercise-Repl
+https://repl.it/@aneagoie/dictionary
+
+040 Tuple-Methods
+https://www.w3schools.com/python/python_ref_tuple.asp
+
+042 Sets-Methods
+https://www.w3schools.com/python/python_ref_set.asp
+
+042 Exercise-Repl
+https://repl.it/@aneagoie/sets
+
+046 Truthy-vs-Falsey-Stackoverflow
+https://stackoverflow.com/questions/39983695/what-is-truthy-and-falsy-how-is-it-different-from-true-and-false
+
+054 Solution-Repl
+https://repl.it/@aneagoie/loops
+
+060 Exercise-Repl
+https://repl.it/@aneagoie/GUI-exercise
+
+060 Solution-Repl
+https://repl.it/@aneagoie/GUI-solution
+
+062 Solution-Repl
+https://repl.it/@aneagoie/Find-Duplicates
+
+071 Solution-Repl
+https://repl.it/@aneagoie/highest-even-solution
+
+075 Solution-Repl
+https://repl.it/@aneagoie/nonlocal

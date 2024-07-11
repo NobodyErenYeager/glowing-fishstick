@@ -1,0 +1,6 @@
+
+001 Built-in-Exceptions
+https://docs.python.org/3/library/exceptions.html
+
+002 Built-in-Exceptions
+https://docs.python.org/3/library/exceptions.html

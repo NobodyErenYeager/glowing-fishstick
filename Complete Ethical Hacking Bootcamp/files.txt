@@ -1,0 +1,247 @@
+01 - Introduction
+	(1280, 720) | 001 Course Outline.mp4
+	(1280, 720) | 002 Join Our Online Classroom!.mp4
+	(1280, 720) | 004 What Is Ethical Hacking.mp4
+	(1280, 720) | 006 ZTM Resources.mp4
+02 - Setting Up Our Hacking Lab
+	(1280, 720) | 001 What is A Virtual Machine.mp4
+	(1280, 720) | 002 Why Linux.mp4
+	(1280, 720) | 004 Downloading Virtual Box & Kali Linux.mp4
+	(1280, 720) | 006 Creating Our First Virtual Machine.mp4
+	(1280, 720) | 008 Installing Kali Linux Operating System.mp4
+	(1280, 720) | 009 Update 1 - New & Old Versions of Kali Linux.mp4
+	(1280, 720) | 011 Full Screen Mode & Network Settings.mp4
+	(1280, 720) | 012 Troubleshooting Network Connection in Kali Linux.mp4
+	(1280, 720) | 014 5 Stages Of A Penetration Test.mp4
+03 - Linux Operating System
+	(1280, 720) | 001 Navigating Through Linux System.mp4
+	(1280, 720) | 002 Creating Files & Managing Directories.mp4
+	(1280, 720) | 003 Network Commands & Sudo Privileges In Kali.mp4
+04 - Reconnaissance & Information Gathering
+	(1280, 720) | 001 What is Information Gathering.mp4
+	(1280, 720) | 002 Obtaining IP Address, Physical Address Using Whois Tool.mp4
+	(1280, 720) | 003 Whatweb Stealthy Scan.mp4
+	(1280, 720) | 004 Aggressive Website Technology Discovering on IP Range.mp4
+	(1280, 720) | 006 Gathering Emails Using theHarvester & Hunter.io.mp4
+	(1280, 720) | 007 How To Download Tools Online.mp4
+	(1280, 720) | 008 Finding Usernames With Sherlock.mp4
+	(1280, 720) | 009 Bonus - Email Scraper Tool In Python 3.mp4
+05 - Scanning
+	(1280, 720) | 001 Theory Behind Scanning.mp4
+	(1280, 720) | 002 TCP & UDP.mp4
+	(1280, 720) | 004 Installing Vulnerable Virtual Machine.mp4
+	(1280, 720) | 005 Netdiscover.mp4
+	(1280, 720) | 006 Performing First Nmap Scan.mp4
+	(1280, 720) | 007 Different Nmap Scan Types.mp4
+	(1280, 720) | 009 Discovering Target Operating System.mp4
+	(1280, 720) | 010 Detecting Version Of Service Running On An Open Port.mp4
+	(1280, 720) | 011 Filtering Port Range & Output Of Scan Results.mp4
+	(1280, 720) | 012 What is a FirewallIDS.mp4
+	(1280, 720) | 013 Using Decoys and Packet Fragmentation.mp4
+	(1280, 720) | 014 Security Evasion Nmap Options.mp4
+06 - Python Coding Project #1 - Portscanner
+	(1280, 720) | 003 Coding a Portscanner in Python 3.mp4
+07 - Vulnerability Analysis
+	(1280, 720) | 001 Finding First Vulnerability With Nmap Scripts.mp4
+	(1280, 720) | 002 Manual Vulnerability Analysis & Searchsploit.mp4
+	(1280, 720) | 003 Nessus Installation.mp4
+	(1280, 720) | 004 Discovering Vulnerabilities With Nessus.mp4
+	(1280, 720) | 005 Scanning Windows 7 Machine With Nessus.mp4
+	(1280, 720) | 006 Lets cool down for a bit!.mp4
+08 - Exploitation & Gaining Access
+	(1280, 720) | 001 What is Exploitation.mp4
+	(1280, 720) | 002 What is a Vulnerability.mp4
+	(1280, 720) | 003 Reverse Shells, Bind Shells.mp4
+	(1280, 720) | 004 Metasploit Framework Structure.mp4
+	(1280, 720) | 005 Msfconsole Basic Commands.mp4
+	(1280, 720) | 006 Our First Exploit - vsftp 2.3.4 Exploitation.mp4
+	(1280, 720) | 007 Misconfigurations Happen - Bindshell Exploitation.mp4
+	(1280, 720) | 008 Information Disclosure - Telnet Exploit.mp4
+	(1280, 720) | 009 Software Vulnerability - Samba Exploitation.mp4
+	(1280, 720) | 010 Attacking SSH - Bruteforce Attack.mp4
+	(1280, 720) | 011 Exploitation Challenge - 5 Different Exploits.mp4
+	(1280, 720) | 012 Explaining Windows 7 Setup.mp4
+	(1280, 720) | 013 Eternal Blue Attack - Windows 7 Exploitation.mp4
+	(1280, 720) | 014 DoublePulsar Attack - Windows Exploit.mp4
+	(1280, 720) | 015 BlueKeep Vulnerability - Windows Exploit.mp4
+	(1280, 720) | 017 Update 2 - Routersploit.mp4
+	(1280, 720) | 018 Update 3 - Router Default Credentials.mp4
+	(1280, 720) | 019 Exercise Imposter Syndrome.mp4
+09 - SMBGhost CVE 2020-0796 - Windows 10 Manual Exploitation
+	(1280, 720) | 002 Setting Up Vulnerable Windows 10.mp4
+	(1280, 720) | 003 Crashing Windows 10 Machine Remotely.mp4
+	(1280, 720) | 004 Exploiting Windows 10 Machine Remotely.mp4
+10 - Gaining Access (Viruses, Trojans, Payloads ...)
+	(1280, 720) | 001 Generating Basic Payload With Msfvenom.mp4
+	(1280, 720) | 002 Advance Msfvenom Usage Part 1.mp4
+	(1280, 720) | 003 Advance Msfvenom Usage Part 2.mp4
+	(1280, 720) | 004 Generating Powershell Payload Using Veil.mp4
+	(1280, 720) | 005 TheFatRat Payload Creation.mp4
+	(1280, 720) | 007 Hexeditor & Antiviruses.mp4
+	(1280, 720) | 008 Making Our Payload Open An Image.mp4
+11 - Post Exploitation - Elevating Privileges, Extracting Data, Running Keyloggers
+	(1280, 720) | 001 Post Exploitation Theory.mp4
+	(1280, 720) | 002 Meterpreter Basic Commands Part 1.mp4
+	(1280, 720) | 003 Meterpreter Basic Commands Part 2.mp4
+	(1280, 720) | 004 Elevating Privileges With Different Modules.mp4
+	(1280, 720) | 005 Creating Persistence On The Target System.mp4
+	(1280, 720) | 006 Post Exploitation Modules.mp4
+	(1280, 720) | 007 Exploitation Recap.mp4
+12 - Python Coding Project #2 - Backdoor
+	(1280, 720) | 001 What Are We Creating.mp4
+	(1280, 720) | 002 Connecting Server And Backdoor.mp4
+	(1280, 720) | 003 Processing Instructional Commands.mp4
+	(1280, 720) | 004 Sending and Receiving Data.mp4
+	(1280, 720) | 005 Executing Commands And Compiling The Program.mp4
+	(1280, 720) | 006 Changing Directory Inside Of Our Backdoor.mp4
+	(1280, 720) | 007 Uploading & Downloading Files.mp4
+	(1280, 720) | 008 Testing All The Commands.mp4
+13 - Website Application Penetration Testing
+	(1280, 720) | 001 Website Penetration Testing Theory.mp4
+	(1280, 720) | 002 HTTP Request & Response.mp4
+	(1280, 720) | 003 Information Gathering & Dirb Tool.mp4
+	(1280, 720) | 004 Burpsuite Configuration.mp4
+	(1280, 720) | 005 ShellShock Exploitation.mp4
+	(1280, 720) | 006 Command Injection Exploitation.mp4
+	(1280, 720) | 007 Getting Meterpreter Shell With Command Execution.mp4
+	(1280, 720) | 008 Reflected XSS & Cookie Stealing.mp4
+	(1280, 720) | 009 Stored XSS.mp4
+	(1280, 720) | 010 HTML Injection.mp4
+	(1280, 720) | 011 SQL Injection.mp4
+	(1280, 720) | 012 CSRF Vulnerability.mp4
+	(1280, 720) | 013 Hydra Bruteforce Attack Example 1.mp4
+	(1280, 720) | 014 Hydra Bruteforce Attack Example 2.mp4
+	(1280, 720) | 015 Burpsuite Intruder.mp4
+14 - Python Coding Project #3 - Login Bruteforce, Directory Discovery
+	(1280, 720) | 001 Creating 2 Programs.mp4
+	(1280, 720) | 002 Bruteforcer In Python.mp4
+	(1280, 720) | 003 Hidden Directory Discovery.mp4
+15 - Man In The Middle - MITM
+	(1280, 720) | 001 Theory - Man In The Middle Attack.mp4
+	(1280, 720) | 002 Bettercap ARP Spoofing.mp4
+	(1280, 720) | 003 Ettercap Password Sniffing.mp4
+	(1280, 720) | 004 Manually Poisoning Targets ARP Cache With Scapy.mp4
+16 - Extra Wireless Access Point Cracking
+	(1280, 720) | 001 Wireless Cracking Theory.mp4
+	(1280, 720) | 002 Putting Wireless Card In Monitor Mode.mp4
+	(1280, 720) | 003 Deauthenticating Devices & Grabbing Password.mp4
+	(1280, 720) | 004 Aircrack Password Cracking.mp4
+	(1280, 720) | 005 Hashcat Password Cracking.mp4
+17 - Extra Gaining Access To An Android Device
+	(1280, 720) | 001 Android Hacking Theory.mp4
+	(1280, 720) | 002 Android VM Install.mp4
+	(1280, 720) | 003 Gaining Access With Android Meterpreter.mp4
+	(1280, 720) | 004 Evil Droid.mp4
+	(1280, 720) | 005 Is it Flappy Bird or Malware.mp4
+	(1280, 720) | 006 Hack Any Device On Any Network With Ngrok.mp4
+18 - Extra Introduction To Anonymity
+	(1280, 720) | 001 Anonymity Theory.mp4
+	(1280, 720) | 002 Tor Browser.mp4
+	(1280, 720) | 003 Proxychains With Nmap.mp4
+	(1280, 720) | 004 Installing VPN in Kali Linux.mp4
+	(1280, 720) | 005 WhoAmI Anonymity Tool.mp4
+19 - Extra Hacking Active Directory
+	(1280, 720) | 001 Enumerating Active Directory.mp4
+	(1280, 720) | 002 Exploiting Active Directory.mp4
+	(1280, 720) | 003 Escalating Privileges on the Domain.mp4
+20 - Where To Go From Here
+	(1280, 720) | 003 What is Next.mp4
+21 - Learn Python Basics
+	(1280, 720) | 001 What Is A Programming Language.mp4
+	(1280, 720) | 002 Python Interpreter.mp4
+	(1280, 720) | 003 How To Run Python Code.mp4
+	(1280, 720) | 004 Latest Version Of Python.mp4
+	(1280, 720) | 005 Our First Python Program.mp4
+	(1280, 720) | 006 Python 2 vs Python 3.mp4
+	(1280, 720) | 007 Exercise How Does Python Work.mp4
+22 - Learn Python Intermediate
+	(1280, 720) | 001 Learning Python.mp4
+	(1280, 720) | 002 Python Data Types.mp4
+	(1280, 720) | 004 Numbers.mp4
+	(1280, 720) | 005 Math Functions.mp4
+	(1280, 720) | 006 DEVELOPER FUNDAMENTALS I.mp4
+	(1280, 720) | 007 Operator Precedence.mp4
+	(1280, 720) | 009 Optional bin() and complex.mp4
+	(1280, 720) | 010 Variables.mp4
+	(1280, 720) | 011 Expressions vs Statements.mp4
+	(1280, 720) | 012 Augmented Assignment Operator.mp4
+	(1280, 720) | 013 Strings.mp4
+	(1280, 720) | 014 String Concatenation.mp4
+	(1280, 720) | 015 Type Conversion.mp4
+	(1280, 720) | 016 Escape Sequences.mp4
+	(1280, 720) | 017 Formatted Strings.mp4
+	(1280, 720) | 018 String Indexes.mp4
+	(1280, 720) | 019 Immutability.mp4
+	(1280, 720) | 020 Built-In Functions + Methods.mp4
+	(1280, 720) | 021 Booleans.mp4
+	(1280, 720) | 022 Exercise Type Conversion.mp4
+	(1280, 720) | 023 DEVELOPER FUNDAMENTALS II.mp4
+	(1280, 720) | 024 Exercise Password Checker.mp4
+	(1280, 720) | 025 Lists.mp4
+	(1280, 720) | 026 List Slicing.mp4
+	(1280, 720) | 027 Matrix.mp4
+	(1280, 720) | 028 List Methods.mp4
+	(1280, 720) | 029 List Methods 2.mp4
+	(1280, 720) | 030 List Methods 3.mp4
+	(1280, 720) | 031 Common List Patterns.mp4
+	(1280, 720) | 032 List Unpacking.mp4
+	(1280, 720) | 033 None.mp4
+	(1280, 720) | 034 Dictionaries.mp4
+	(1280, 720) | 035 DEVELOPER FUNDAMENTALS III.mp4
+	(1280, 720) | 036 Dictionary Keys.mp4
+	(1280, 720) | 037 Dictionary Methods.mp4
+	(1280, 720) | 038 Dictionary Methods 2.mp4
+	(1280, 720) | 039 Tuples.mp4
+	(1280, 720) | 040 Tuples 2.mp4
+	(1280, 720) | 041 Sets.mp4
+	(1280, 720) | 042 Sets 2.mp4
+	(1280, 720) | 043 Breaking The Flow.mp4
+	(1280, 720) | 044 Conditional Logic.mp4
+	(1280, 720) | 045 Indentation In Python.mp4
+	(1280, 720) | 046 Truthy vs Falsey.mp4
+	(1280, 720) | 047 Ternary Operator.mp4
+	(1280, 720) | 048 Short Circuiting.mp4
+	(1280, 720) | 049 Logical Operators.mp4
+	(1280, 720) | 050 Exercise Logical Operators.mp4
+	(1280, 720) | 051 is vs ==.mp4
+	(1280, 720) | 052 For Loops.mp4
+	(1280, 720) | 053 Iterables.mp4
+	(1280, 720) | 054 Exercise Tricky Counter.mp4
+	(1280, 720) | 055 range().mp4
+	(1280, 720) | 056 enumerate().mp4
+	(1280, 720) | 057 While Loops.mp4
+	(1280, 720) | 058 While Loops 2.mp4
+	(1280, 720) | 059 break, continue, pass.mp4
+	(1280, 720) | 060 Our First GUI.mp4
+	(1280, 720) | 061 DEVELOPER FUNDAMENTALS IV.mp4
+	(1280, 720) | 062 Exercise Find Duplicates.mp4
+	(1280, 720) | 063 Functions.mp4
+	(1280, 720) | 064 Parameters and Arguments.mp4
+	(1280, 720) | 065 Default Parameters and Keyword Arguments.mp4
+	(1280, 720) | 066 return.mp4
+	(1280, 720) | 067 Methods vs Functions.mp4
+	(1280, 720) | 068 Docstrings.mp4
+	(1280, 720) | 069 Clean Code.mp4
+	(1280, 720) | 070 args and kwargs.mp4
+	(1280, 720) | 071 Exercise Functions.mp4
+	(1280, 720) | 072 Scope.mp4
+	(1280, 720) | 073 Scope Rules.mp4
+	(1280, 720) | 074 global Keyword.mp4
+	(1280, 720) | 075 nonlocal Keyword.mp4
+	(1280, 720) | 076 Why Do We Need Scope.mp4
+	(1280, 720) | 077 Modules in Python.mp4
+	(1280, 720) | 079 Optional PyCharm.mp4
+	(1280, 720) | 080 Packages in Python.mp4
+	(1280, 720) | 081 Different Ways To Import.mp4
+23 - Learn Python 3 Error Handling
+	(1280, 720) | 001 Errors in Python.mp4
+	(1280, 720) | 002 Error Handling.mp4
+	(1280, 720) | 003 Error Handling 2.mp4
+	(1280, 720) | 004 Exercises Error Handling.mp4
+	(1280, 720) | 005 Error Handling 3.mp4
+24 - Learn Python 4 File IO
+	(1280, 720) | 001 Working With Files In Python.mp4
+	(1280, 720) | 002 File Paths.mp4
+	(1280, 720) | 003 File IO Errors.mp4
+	(1280, 720) | 004 Read, Write, Append.mp4
+	(1280, 720) | 006 Exercise Translator.mp4

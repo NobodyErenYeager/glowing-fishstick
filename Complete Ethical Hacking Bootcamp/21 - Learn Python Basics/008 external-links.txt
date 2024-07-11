@@ -1,0 +1,18 @@
+
+002 python.org
+https://www.python.org/
+
+003 Repl.it
+https://repl.it/
+
+003 Glot.io
+https://glot.io/
+
+006 The-Story-of-Python
+https://www.youtube.com/watch?v=J0Aq44Pze-w
+
+006 Python-2-vs-Python-3
+https://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
+
+006 Python-2-vs-Python-3-another-one
+https://www.geeksforgeeks.org/important-differences-between-python-2-x-and-python-3-x-with-examples/
